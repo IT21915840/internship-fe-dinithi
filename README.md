@@ -23,6 +23,7 @@
    - Created a Dockerfile to set up an Nginx container.
    - Exposed port 80 and mapped it to port 3000 on the host.
    - Configured a volume to sync files between the host and container.
+   - http://localhost:3000 for Docker
 
 5. **Live Version:**
    - Deployed the website using GitHub Pages.
